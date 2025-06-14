@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQYKXatberpLpHSMZchVqbtRubhg936GGphM25DNGkOrccJalcdXcudtx8Q75DFAiXfoxd9ooUS/ANPpnhOPuA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\YC\\Desktop\\Bosst dotNet\\backend\\backend.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : Microsoft Visual Studio Offline Packages, Package source",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Swashbuckle.AspNetCore introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : Microsoft Visual Studio Offline Packages, Package source",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Design introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : Microsoft Visual Studio Offline Packages, Package source",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Npgsql.EntityFrameworkCore.PostgreSQL introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : Microsoft Visual Studio Offline Packages, Package source",
+      "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
